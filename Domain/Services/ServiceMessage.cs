@@ -11,4 +11,4 @@ public class ServiceMessage : IServiceMessage
     {
         _IMessage = IMessage;
     }
-}
+}                                                                                      
